@@ -7,5 +7,6 @@ soils.
 Irish neighbourhoods were created using the Corine Land Cover Map 2018 (100 m resolution), combined with information on calcareous and peaty
 soils.
 
-Files can be visualised here: https://olipes.shinyapps.io/visualiseFresNeighbours
+Files can be visualised here: https://olipes.shinyapps.io/visualiseFresNeighbours.
+
 Please contact Dr Oli Pescott (https://www.ceh.ac.uk/staff/oliver-pescott) for more information.
