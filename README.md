@@ -10,4 +10,5 @@ Files can be visualised here: https://olipes.shinyapps.io/visualiseFresNeighbour
 ## Update 2022/03/30
 The Oxon file is a weights file for the Watsonian county of Oxfordshire, created at the 2 km rather than 10 km resolution for more local analyses. This used the UKCEH Land Cover Map 2020 (25 m resolution), combined with information on calcareous soils only.
 
+## More info
 Please contact Dr Oli Pescott (https://www.ceh.ac.uk/staff/oliver-pescott) for more information.
