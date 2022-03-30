@@ -7,7 +7,7 @@ soils. Site-to-site environmental similarity matrices were calculated using the 
 
 Files can be visualised here: https://olipes.shinyapps.io/visualiseFresNeighbours, with the code for the RShiny app visualisations here: https://github.com/sacrevert/visualiseFresNeighbours. A comparison, for Britain, of two different approaches to neighbourhood construction can be found here: https://github.com/sacrevert/frescaloNeighbourhoods/blob/main/spartaWeightsComparison.pdf
 
-# Update 2022/03/30
+## Update 2022/03/30
 The Oxon file is a weights file for the Watsonian county of Oxfordshire, created at the 2 km rather than 10 km resolution for more local analyses. This used the UKCEH Land Cover Map 2020 (25 m resolution), combined with information on calcareous soils only.
 
 Please contact Dr Oli Pescott (https://www.ceh.ac.uk/staff/oliver-pescott) for more information.
