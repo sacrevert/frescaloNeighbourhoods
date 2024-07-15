@@ -13,5 +13,8 @@ The Oxon file is a weights file for the Watsonian county of Oxfordshire, created
 ## Update 2022/06/29
 The IDF file is a weights file for the Ile-de-France region of France (including Paris), created at the commune level. Current similarity measures are based on the  Corine Land Cover Map 2018 (100 m resolution) and distance only. Note also that this version contains neighbourhoods of 50 communes.
 
+## Update 2024/07/15
+The Wilts and Leics files are weights file for the Watsonian counties of Leicestershire and South + North Wiltshire combined, both created at the 2 km rather than 10 km resolution for more local analyses. These used the UKCEH Land Cover Map 2020 (25 m resolution), combined with information on calcareous bedrock only.
+
 ## More info
 Please contact Dr Oli Pescott (https://www.ceh.ac.uk/staff/oliver-pescott) for more information.
